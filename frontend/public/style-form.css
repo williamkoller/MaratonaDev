@@ -1,0 +1,13 @@
+html,
+body {
+    background-color: #ffffffaa;
+    width: 60%;
+    height: 100%;
+}
+
+h1 {
+    color: #ff4f4f;
+    text-align: center;
+    margin-bottom: 16px;
+    margin-top: 16px;
+}
